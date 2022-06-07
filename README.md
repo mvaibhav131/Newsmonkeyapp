@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+
+# ## ~NEWSMONDEY APP~ ##
+
 ![ see the app image](https://user-images.githubusercontent.com/98808183/172433607-e797a822-1251-499e-9288-238b73a61f2a.png)
 
 
