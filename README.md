@@ -6,7 +6,11 @@
 ![ see the app image](https://user-images.githubusercontent.com/98808183/172433607-e797a822-1251-499e-9288-238b73a61f2a.png)
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## [Visit the NEWSMONKEY  App ](https://www.headlinestoday.in/live-stream/news18-32.html)
+
+
+##  [Visit the Code](https://github.com/mvaibhav131/Newsmonkeyapp)
+
 
 ## Available Scripts
 
